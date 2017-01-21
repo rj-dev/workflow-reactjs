@@ -38,5 +38,10 @@
   "dependencies": {
     "react": "^15.4.0",
     "react-dom": "^15.4.0"
+  },
+  "standard":{
+    "globals": [
+      "alert"
+    ]
   }
 }
